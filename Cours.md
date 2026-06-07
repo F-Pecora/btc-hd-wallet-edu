@@ -1,4 +1,4 @@
-# Bitcoin HD Wallet — Cours ultra-détaillé
+# Bitcoin HD Wallet — Cours
 ### BIP39 · BIP32 · BIP84 · secp256k1 · Bech32
 > Basé sur `wallet.py` — script éducatif v2  
 > Chaque byte est disséqué. Chaque algo est décortiqué.
